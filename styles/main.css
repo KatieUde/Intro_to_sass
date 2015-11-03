@@ -2,16 +2,19 @@ body {
   font-size: 16px; }
 
 h1 {
+  font-family: "Libre Baskerville:400 25px", serif;
   font-size: 3rem;
   margin: 5px; }
 
 p {
-  font-size: 1rem; }
+  font-size: 1rem;
+  font-family: "Fira Sans: 400", sans-serif; }
 
 nav li {
   font-size: 1.25rem; }
 
 h2 {
+  font-family: "Libre Baskerville:400 25px", serif;
   font-size: 1.5rem; }
 
 figcaption {
